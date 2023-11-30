@@ -36,5 +36,8 @@ td {
   }
   p {
     color: black;
-    font-size: 20;
+    font-size: 125%;
+  }
+smallp {
+  font-size: 50%;
   }
