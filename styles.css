@@ -11,22 +11,19 @@ body {
     border-collapse: collapse;
   }
 th {
-    color: rgb(255, 0, 234);
+	  background-color: black;
+    color: white;
     padding: 20px;
     text-align: center;
-    font-family: rounded-arial;
-    font-size: 80;
+    font-family: arial;
+    font-size: 300%;
     border-collapse: collapse;
     border: 1px solid black;
   }
 td {
-    color: black;
-    text-align: center;
-    font-family: rounded-arial;
-    font-size: 15;
-    border-collapse: collapse;
-    border: 1px solid black;
-  }
+	text-align: center;
+    font-size: 130%
+}
   h1 {
     color: rgb(255, 0, 0);
     font-family: century-schoolbook;
