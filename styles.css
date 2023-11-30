@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(243, 235, 179);
+  }
+  h1 {
+    color: rgb(255, 0, 0);
+    font-family: century-schoolbook;
+    font-size: 60%;
+  }
+  h2 {
+    color: rgb(0, 0, 255);
+    font-family: century-schoolbook;
+    font-size: 30%;
+  }
+  p {
+    color: black;
+    font-size: 20%;
+  }
