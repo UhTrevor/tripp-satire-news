@@ -1,47 +1,33 @@
 body {
     background-color: rgb(191, 182, 182)
   }
-#mytitle {
-    background-color: lightblue;
-    color: rgb(255, 0, 0);
-    padding: 40px;
+header {
+    background-color: white;
+    padding: 30px;
     text-align: center;
-    font-family: rounded-arial;
-    font-size: 80;
-    border-collapse: collapse;
-  }
-table {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
-th {
-	  background-color: black;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-family: arial;
-    font-size: 220%;
-    border-collapse: collapse;
-    border: 1px solid black;
-  }
-td {
-	text-align: center;
-    font-size: 130%
-}
-  h1 {
-    color: rgb(255, 0, 0);
-    font-family: century-schoolbook;
-    font-size: 60;
-  }
-  h2 {
-    color: rgb(0, 0, 255);
-    font-family: century-schoolbook;
-    font-size: 30;
-  }
-  p {
+    font-size: 35px;
     color: black;
-    font-size: 125%;
-  }
-smallp {
-  font-size: 50%;
-  }
+    }
+ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #242424;
+    }
+    
+li {
+      float: left;
+    }
+    
+li a {
+      display: block;
+      color: whitesmoke;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+li a:hover {
+      background-color: #111;
+    }
