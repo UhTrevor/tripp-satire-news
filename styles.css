@@ -31,3 +31,18 @@ li a {
 li a:hover {
       background-color: #111;
     }
+footer {
+      background-color: #777;
+      padding: 10px;
+      text-align: center;
+      color: white;
+    }
+
+table {
+  border-style: inset;
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  height: 50px;
+}
